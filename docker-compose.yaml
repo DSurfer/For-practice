@@ -1,0 +1,7 @@
+services:
+  web:
+    image: surfera/workimage:prac
+    container_name: workprac
+    restart: unless-stopped
+    ports:
+      - 80:80
