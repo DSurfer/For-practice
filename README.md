@@ -1,2 +1,2 @@
-# For-work
-Test task for practice
+Тестовое задание для стажировки
+
